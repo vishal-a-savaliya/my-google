@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* # for id */
+/* . for class */
+
+.container{
+    text-align: center;
+}
+
+#heading{
+    font-size: 80px;
+}
+
+.form__div > input{
+    width:350px;
+}
